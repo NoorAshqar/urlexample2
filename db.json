@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "title": "post 1",
+      "content": "content 1",
+      "id": "a95b"
+    },
+    {
+      "id": "d725",
+      "title": "post 2",
+      "content": "content 2"
+    },
+    {
+      "id": "80fe",
+      "title": "post 3",
+      "content": "content 3"
+    }
+  ]
+}
